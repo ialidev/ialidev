@@ -23,7 +23,6 @@ Most of my technical research and software frameworks are maintained and publish
 
 ## 🎖️ Global Certifications & Milestones
 * 🎓 **Harvard CS50 Certified:** Completed the introductory computer science curriculum from Harvard University.
-* 🏆 **World Ranking in Logic Games:** Ranked **6th globally** in advanced Scratch visual programming and logic optimization.
 * 🇿🇦 **Youth Leadership:** Completed a comprehensive ten-page scholarship evaluation for the Global Youth Leadership Summit in Cape Town.
 
 ---
